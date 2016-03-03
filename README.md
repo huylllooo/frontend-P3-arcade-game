@@ -3,15 +3,15 @@ P3: Classic Arcade Game Clone
 
 # This is part of the Udacity Front-End NanoDegree
 
-http://huylllooo.github.io/frontend-P3-arcade-game/
-View the source code by either 'View on GitHub' or 'Download' options.
+https://github.com/huylllooo/frontend-P3-arcade-game.git
+View the source code by either viewing on GitHub or selecting 'Download ZIP' options.
 
 ## Running the game
 
 Play online at: not available yet
 
 Play offline:
-	Select 'Download .zip'/'Download .tar.gz' option, extract downloaded file somewhere. Open index.html file with your browser and the game will start.
+	Select 'Download ZIP' option, extract downloaded file somewhere. Open index.html file with your browser and the game will start.
 
 ## Gameplay
 The object of the game is to score as many points as you can in 15 seconds.
