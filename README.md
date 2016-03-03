@@ -3,14 +3,14 @@ P3: Classic Arcade Game Clone
 
 # This is part of the Udacity Front-End NanoDegree
 
-View the source code by
+View the source code by selecting 'Download ZIP' option
 
 ## Running the game
 
 Play online at:
 
 Play offline:
-	Download Zip file, extract somewhere. Open index.html file with your browser and the game will start.
+	Select 'Download ZIP' option, extract Zip file somewhere. Open index.html file with your browser and the game will start.
 
 ## Gameplay
 The object of the game is to score as many points as you can in 15 seconds.
