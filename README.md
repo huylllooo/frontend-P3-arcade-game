@@ -3,7 +3,8 @@ P3: Classic Arcade Game Clone
 
 # This is part of the Udacity Front-End NanoDegree
 
-https://github.com/huylllooo/frontend-P3-arcade-game.git
+http://huylllooo.github.io/frontend-P3-arcade-game/
+
 View the source code by either viewing on GitHub or selecting 'Download ZIP' options.
 
 ## Running the game
